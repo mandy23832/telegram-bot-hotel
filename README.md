@@ -44,13 +44,14 @@ we have added in favorite list.
   * input  "/北部" or "/中部" or "/南部" or "/東部" or "/外島"
     * goto state 1 ,2 ,3 ,4 ,5
     * it will ask you to print county in this area
-  * input `/我的最愛`  
+  * input  "/我的最愛"  
     * it can watch what we have added in favorite list.
   * input "/each county"
     * it will show you the hotela in this country and its website
     * in this state you can type `/add + data you what to add` ,and the data will be save into a favorite list
   * input "/推薦" 
     * it will random generate a photo of travel to show you
+    
 
 
 Reference
